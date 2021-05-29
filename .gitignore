@@ -11,3 +11,5 @@
 /etc/gui.conf
 /etc/nginx-selfsigned.crt
 /etc/nginx-selfsigned.key
+
+/data
